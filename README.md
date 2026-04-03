@@ -2,24 +2,44 @@
 
 This is a Machine Learning project that predicts whether a student will pass or fail based on:
 
-- Study Hours
-- Attendance
-- Previous Marks
+- Study Hours  
+- Attendance  
+- Previous Marks  
 
-## 🚀 Technologies Used
-- Python
-- Pandas
-- Scikit-learn
+---
 
-## 📊 How it works
-The model uses Logistic Regression to analyze student data and predict the result.
+## 📊 Project Overview
+This project uses Logistic Regression to analyze student data and predict performance outcomes. It demonstrates machine learning concepts like data preprocessing, training, testing, and prediction.
+
+---
+
+## 🛠️ Technologies Used
+- Python  
+- Pandas  
+- Scikit-learn  
+
+---
+
+## 🚀 How It Works
+1. Input student data  
+2. Train model  
+3. Predict result (Pass/Fail)  
+
+---
 
 ## ▶️ How to Run
-1. Install dependencies:
-pip install pandas scikit-learn
+pip install pandas scikit-learn  
+python model.py  
 
-2. Run:
-python model.py
+---
 
-## 📌 Output
-Pass / Fail prediction
+## 📌 Output Example
+Prediction: Pass  
+Accuracy: 0.85  
+
+---
+
+## 💡 Future Improvements
+- Add more dataset  
+- Create web app using Streamlit  
+- Add graphs and visualization
