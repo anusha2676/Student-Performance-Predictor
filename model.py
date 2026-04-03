@@ -25,3 +25,7 @@ model.fit(X_train, y_train)
 prediction = model.predict([[5, 80, 60]])
 
 print("Prediction:", "Pass" if prediction[0] == 1 else "Fail")
+from sklearn.metrics import accuracy_score
+
+y_pred = model.predict(X_test)
+print("Accuracy:", accuracy_score(y_test, y_pred))
