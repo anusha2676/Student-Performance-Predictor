@@ -15,6 +15,12 @@ To predict whether a student will pass or fail using machine learning techniques
 This project uses Logistic Regression to analyze student data and predict performance outcomes. It demonstrates machine learning concepts like data preprocessing, training, testing, and prediction.
 
 ---
+## 🔮 Future Scope
+- Add more data for better accuracy  
+- Build web app using Streamlit  
+- Add graphs and visualization
+
+---
 
 ## 🛠️ Technologies Used
 - Python  
@@ -46,16 +52,15 @@ Accuracy: 0.85
 ## 📷 Output Screenshot
 ![Output](output.png)
 
-## ✨ Key Features
-- Predicts student performance (Pass/Fail)
-- Uses Logistic Regression algorithm
-- Beginner-friendly ML project
-- Includes accuracy evaluation
+---
+
 
 ## 🔮 Future Scope
 - Add more data for better accuracy  
 - Build web app using Streamlit  
 - Add graphs and visualization
+
+---
 
  ## 👩‍💻 Author
 Anusha B  
